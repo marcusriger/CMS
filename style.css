@@ -1,0 +1,27 @@
+form {
+    width: 300px;
+    padding: 20px;
+}
+
+.row {
+    width: 1000%;
+}
+
+.parent {
+    display: flex;
+}
+
+header {
+    background: url("marcusdoodle.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 300px;
+}
+
+header h1 {
+    font-weight: bold;
+}
+
+.img img{
+    width: 75%;
+}
